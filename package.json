@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "A simple timestamp api used to obtain a formatted date or unix timestamp from either of the aformentioned options.",
   "main": "timestamp.js",
+  "scripts": {
+    "start": "node timestamp.js"
+  },
   "repository": "",
   "author": "John Eidum <eidum003@umn.edu>",
   "dependencies": {
