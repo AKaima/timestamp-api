@@ -1,13 +1,11 @@
 {
-  "name": "chat-example",
-  "version": "0.0.0",
-  "description": "A chat example to showcase how to use `socket.io` with a static `express` server with `async` for control flow.",
-  "main": "server.js",
+  "name": "timestamp-api",
+  "version": "1.0.0",
+  "description": "A simple timestamp api used to obtain a formatted date or unix timestamp from either of the aformentioned options.",
+  "main": "timestamp.js",
   "repository": "",
-  "author": "Mostafa Eweda <mo.eweda@gmail.com>",
+  "author": "John Eidum <eidum003@umn.edu>",
   "dependencies": {
-    "async": "~0.2.8",
-    "express": "~3.2.4",
-    "socket.io": "~0.9.14"
+    "express": "~3.2.4"
   }
 }
